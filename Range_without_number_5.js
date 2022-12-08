@@ -1,3 +1,5 @@
+// Функция убирает все значения содержищие число 5 из диапазона чисел.
+
 function dontFive(start, end) {
 
     const startSigh = Math.sign(start)
